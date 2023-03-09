@@ -1,0 +1,1 @@
+{"routes":[{"src":"/recette","dest":"/recette.html"},{"src":"/","dest":"/index.html"},{"src":"/a-propos","dest":"/a-propos.html"},{"src":"/new-recette","dest":"/new-recette.html"},{"src":"/blog","dest":"/blog.html"}]}
